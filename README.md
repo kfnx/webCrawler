@@ -1,3 +1,5 @@
+simple web scrapping app and visualize to wordcloud
+
 langkah penggunaan:
 - execute main.py
 - execute cli command di folder yang sama : wordcloud_cli --text textCollected.txt --imagefile wordcloud.png
