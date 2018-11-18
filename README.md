@@ -1,4 +1,4 @@
-simple web scrapping app and visualize to wordcloud
+simple web scrapping app and visualize to wordcloud written using python
 
 langkah penggunaan:
 - execute main.py
