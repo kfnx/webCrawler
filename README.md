@@ -9,3 +9,6 @@ untuk catatan:
 - link berisi video tidak memiliki kata untuk diambil
 - beberapa kata di exclude dari pengambilan karena tidak memiliki makna signifikan dan membuat hasil akhir bias makna
 - program dibuat dan baru teruji pada environtment windows
+
+
+© 2018 Kafin Salim
